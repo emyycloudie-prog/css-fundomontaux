@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+
+
+.container {
+  background-color: pink;
+  color: blueviolet;
+width: 300px;
+padding: 20px;
+margin: 30px auto;
+border: 1px solid black;
+ border-radius: 10px;
+ box-shadow: 20px 10px 1px black;
+ box-sizing: border-box;
+ text-align: center;
+ }
+ 
+ 
